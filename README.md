@@ -32,9 +32,9 @@
 >**Repositórios:**        
 >**[Projeto 3]()**
 
-##Conhecimentos Adicionais:
+## Conhecimentos Adicionais:
 
-###🧠 Estrutura de Dados: Possuo um sólido entendimento de estruturas de dados e algoritmos, aplicando esses conhecimentos para aprimorar a eficiência do código em diversos projetos.
+### 🧠 Estrutura de Dados: Possuo um sólido entendimento de estruturas de dados e algoritmos, aplicando esses conhecimentos para aprimorar a eficiência do código em diversos projetos.
 
 ## Conecte-se comigo:
 </a>
