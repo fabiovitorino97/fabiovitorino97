@@ -1,8 +1,8 @@
-## Olá 👋
+## Olá! 👋 
 
-### Meu nome é Fábio Assunção Vitorino, tenho 26 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Fatec Franca. lorem ipson lorem ipson lorem ipson lorem ipson lorem ipson lorem ipson lorem ipson lorem ipson lorem ipson lorem ipson lorem ipson 
+### Sou estudante do 4º semestre de Análise de Sistemas, apaixonado por programação e análise. Com uma formação em Engenharia Elétrica e uma trajetória acadêmica em Matemática, estou em busca de oportunidades para mergulhar de cabeça no universo da programação. 
 
-### lorem ipson lorem ipson lorem ipson lorem ipson lorem ipson lorem ipson lorem ipson lorem ipson lorem ipson lorem ipson lorem ipson lorem ipson lorem ipson lorem ipson lorem ipson lorem ipson lorem ipson lorem ipson lorem ipson lorem ipson lorem ipson lorem ipson 
+### Experiência em Desenvolvimento:
 
 ## <b>📈 GitHub Stats:</b>
 ![Fábio Vitorino's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiovitorino97&show_icons=true&theme=vue-dark)
@@ -32,7 +32,11 @@
 >**Repositórios:**        
 >**[Projeto 3]()**
 
-## Conecte-se comigo
+##Conhecimentos Adicionais:
+
+###🧠 Estrutura de Dados: Possuo um sólido entendimento de estruturas de dados e algoritmos, aplicando esses conhecimentos para aprimorar a eficiência do código em diversos projetos.
+
+## Conecte-se comigo:
 </a>
   <a href="https://https://www.linkedin.com/in/devfabiovitorino/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white"  title="LinkedIn - Pedro Henrique Mota"/></a>
@@ -40,7 +44,7 @@
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"  title="Gmail - Pedro Henrique Mota"/></a>
 </p>
 
-## Agradeço por visitar meu perfil e espero que meus projetos possam ser úteis e inspiradores para você. Vamos juntos construir soluções tecnológicas incríveis! Fábio Vitorino!
+## Agradeço por visitar meu perfil Estou ansioso para colaborar em desafios empolgantes e aprender continuamente. Seja bem-vindo ao meu perfil, onde a paixão pela programação encontra a dedicação em criar soluções inovadoras! 🚀 Fábio Vitorino!
 
 
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg) 
