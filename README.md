@@ -4,7 +4,7 @@
 
 ## Experiência em Desenvolvimento:
 
-## <b>📈 GitHub Stats:</b>
+### <b>📈 GitHub Stats:</b>
 ![Fábio Vitorino's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiovitorino97&show_icons=true&theme=vue-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiovitorino97&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
