@@ -2,7 +2,7 @@
 
 ### Sou estudante do 4º semestre de Análise de Sistemas, apaixonado por programação e análise. Com uma formação em Engenharia Elétrica e uma trajetória acadêmica em Matemática, estou em busca de oportunidades para mergulhar de cabeça no universo da programação. 
 
-### Experiência em Desenvolvimento:
+## Experiência em Desenvolvimento:
 
 ## <b>📈 GitHub Stats:</b>
 ![Fábio Vitorino's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiovitorino97&show_icons=true&theme=vue-dark)
@@ -22,7 +22,7 @@
 
 ## Lista de Projetos Individuais:
 >**Repositórios:**            
->**[Projeto 1]()**          
+>**[Calculadora Simples Js](https://github.com/fabiovitorino97/simple-js-calculator)**          
 >**[Projeto 2]()**
 
 >**Sites:**        
