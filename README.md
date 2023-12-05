@@ -23,7 +23,7 @@
 ## Lista de Projetos Individuais:
 >**Repositórios:**            
 >**[Calculadora Simples Js](https://github.com/fabiovitorino97/simple-js-calculator)**          
->**[Projeto 2]()**
+>**[Simulador de Parcelas Js](https://github.com/fabiovitorino97/js-installment-simulator)**
 
 >**Sites:**        
 >**[Site 1]()**
