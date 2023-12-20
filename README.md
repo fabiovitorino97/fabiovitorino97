@@ -23,8 +23,7 @@
 ## Lista de Projetos Individuais:
 >**Repositórios:**            
 >**[Calculadora Simples Js](https://github.com/fabiovitorino97/simple-js-calculator)**
-
->**[Jogo Snake Retro Js](https://fabiovitorino97.github.io/js-snake-game)**         
+>**[Jogo Snake Retrô Js](https://fabiovitorino97.github.io/js-snake-game/)**      
 >**[Simulador de Parcelas Js](https://github.com/fabiovitorino97/js-installment-simulator)**
 
 
