@@ -1,6 +1,6 @@
 ## Olá! 👋 
 
-### Sou estudante do 4º semestre de Análise de Sistemas, apaixonado por programação e análise. Com uma formação em Engenharia Elétrica e uma trajetória acadêmica em Matemática, estou em busca de oportunidades para mergulhar de cabeça no universo da programação. 
+### Sou estudante do 5º semestre de Análise de Sistemas, apaixonado por programação e análise. Com uma formação em Engenharia Elétrica e uma trajetória acadêmica em Matemática, estou em busca de oportunidades para mergulhar de cabeça no universo da programação. 
 
 ## Experiência em Desenvolvimento:
 
@@ -26,13 +26,9 @@
 - **[Calculadora Simples Js](https://github.com/fabiovitorino97/simple-js-calculator)**
 - **[Simulador de Parcelas Js](https://github.com/fabiovitorino97/js-installment-simulator)**
 
-
->**Sites:**        
-- **[Site 1]()**
-
-## Lista de Projetos em equipe:
+## Projeto em Java:
 >**Repositórios:**        
-- **[Projeto X]()**
+- **[Projeto Ecommerce Compass](https://github.com/fabiovitorino97/ecommerce)**
 
 ## Conhecimentos Adicionais:
 
